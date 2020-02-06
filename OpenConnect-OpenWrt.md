@@ -1,8 +1,10 @@
 # 方案二：使用 SYSU OpenConnect VPN
 ## OpenWrt方案
 
-由于我自己没有成功，所以仅提供一个思路。
+由于我自己在认证阶段没有成功，所以仅提供一个思路。
+
 ---
+
 1. 安装openconnect组件：
 ```bash
 opkg update
@@ -22,4 +24,6 @@ opkg install openconnect luci-proto-openconnect
 6. 重启路由器
 
 7. 检查IPv6网络状态
+* [test ipv6](https://test-ipv6.com)
+* [ipv6 test](https://ipv6-test.com)
 ![ULA Status](./src/ULA-Status.png)

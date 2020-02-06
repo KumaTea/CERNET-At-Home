@@ -4,7 +4,9 @@
 前提条件：有一台Linux服务器。
 
 这里以刷了[Armbian](https://www.armbian.com/)的[香橙派](http://www.orangepi.cn/OrangePiOneplus/index_cn.html)为例。
+
 ---
+
 1. 安装必要软件
 ```bash
 apt update
@@ -58,4 +60,6 @@ service radvd restart
 ```
 
 5. 检查IPv6网络状态
+* [test ipv6](https://test-ipv6.com)
+* [ipv6 test](https://ipv6-test.com)
 ![ULA Status](./src/ULA-Status.png)

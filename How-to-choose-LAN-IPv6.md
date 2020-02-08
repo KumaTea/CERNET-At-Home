@@ -3,7 +3,7 @@
 此指南针对于提供`/128`的野蛮VPN，提供`/64`及更小的文明VPN请高强度Relay（中继），获取全球唯一单播地址`2001:0000::/23`，，，
 > [其实应该是`2001:0200::/23`](https://www.iana.org/assignments/ipv6-unicast-address-assignments/ipv6-unicast-address-assignments.xhtml)
 ---
-在特殊环境（家里到学校的连接）下，选择IPv6网段有如下建议：
+在特殊环境（IPv6通过家里到学校的连接）下，选择IPv6网段有如下建议：
 
 ## unique local address (ULA)
 **优选**

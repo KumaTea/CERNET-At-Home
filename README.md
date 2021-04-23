@@ -16,3 +16,7 @@
 
 ## 注意事项
 * [如何选择IPv6网段](./How-to-choose-LAN-IPv6.md)
+
+## 推荐阅读
+* [**openwrt.md**](https://github.com/tuna/ipv6.tsinghua.edu.cn/blob/master/openwrt.md) - [tuna / ipv6.tsinghua.edu.cn](https://github.com/tuna/ipv6.tsinghua.edu.cn)
+  * 每次全新配置路由器，IPv6 部分一定要照着抄的
